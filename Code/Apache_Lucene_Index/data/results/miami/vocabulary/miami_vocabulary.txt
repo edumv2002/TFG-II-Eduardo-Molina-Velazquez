@@ -1,0 +1,22 @@
+minority	Cyclist	cyclist,bike,bikers,bike racks,riders,ride,bike racks,bike lane,cycle track,bikelane,bike rental station,reflective,reflecting,crossing,crossings,cycle,accidents,bicyclists
+minority	People with disabilities	disabilities,disable,accesible,equality,disab*,wheelchairs,intellectual disabilities,autism,CARD,Center for Autism and Related Disabilities
+minority	Homeless	homeless*,shelter*,sleeping pods,housing services,poor,affordable housing
+minority	Pedestrians	crosswalks,sidewalks,pedestrians,raised crosswalk,walkers,residents,runners,residential area,crossing,crossings,danger*,walk,safety,shelters
+minority	Kids	kid,kids,children,child,childhood,school,playground*
+minority	Youth	youth,young people,students,resources,teenagers,youth center,youth programs,young pregnancy,teen pregnancy,Hard Knocks*,juvenile,Young Arts Foundation,Y.O.V.E.,Youth of Valor Empowerment
+minority	Elderly	elderly,elders,retired,caretakers,adult education
+minority	Parents	father,mother,mum,dad,parents,caregive
+minority	Black People	black people,Black Americans,Black American Historical,black community,blacklivesmatter,racism
+minority	Unemployed	unemployed,low-income,unemploy*
+minority	Women (equality)	domestic violence,early drop out,human trafficking,sexism,single mother
+nimby	Trash	trash,trash barrels,trash cans,trash bags,trash disposal,trash collection,trash bins,recycling,recycl*,litter,garbage
+nimby	Animals	animals,animal*,dog*,cat*,pet,pets,grass,waste,waste disposals,dog park,regulations,dog owners,dog walkers,dog waste,clean,pee,peeing,urine
+nimby	Restrooms	public restrooms,restroom*,accesible restrooms,bathrooms,defecating,urinating,public facilities
+nimby	Pollution	trees,emissions,air,pollution,pollution levels,carbon emissions,fuels,public transport,gardening,diesel,pollutants
+nimby	Parking for residents	parking,parking spaces,parking lots,parking garage,parking area,parking spots,parking meters,parking tickets,parking fines,parking regulations,parking permits,parking restrictions,parking enforcement,parking management,parking facilities,parking services,parking problems,parking issues,parking solutions,parking needs,parking availability
+nimby	Electrical issues	wires,black outs,blackouts,cable wires,electrical lines,electricity
+nimby	Noise	noise,noise reduction,noise exposure
+nimby	Drugs	drug,drugs,overdose*,drug sales
+nimby	Alcohol alchohol,drinking in public,alcoh*
+nimby	Squattering squattering,squatter,squatters
+nimby	Festival	Festival,festivals,concert,concerts

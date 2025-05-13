@@ -1,0 +1,26 @@
+minority	Cyclist	cyclist,bike,bikers,bike racks,riders,ride,bike racks,bike lane,cycle track,bikelane,bike rental station,reflective,reflecting,crossing,crossings,cycle,accidents,bicyclists
+minority	People with disabilities	disabilities,disable,accesible,equality,disab*,wheelchairs
+minority	Homeless	homeless*,shelter*,sleeping pods,housing services,Cambridge Continuum of Care,Alliance of Cambridge Tenants,poor,affordable housing,poverty
+minority	Pedestrians	crosswalks,sidewalks,pedestrians,raised crosswalk,walkers,residents,runners,residential area,crossing,crossings,Inman Sq*,danger*,walk,safety,shelters
+minority	Kids	kid,kids,children,child,childhood,school,playground*
+minority	Youth	youth,young people,students,resources,teenagers,youth center,youth programs,young pregnancy,teen pregnancy
+minority	Elderly	elderly,elders,retired,caretakers,adult education
+minority	Parents	father,mother,mum,dad,parents,caregive
+minority	Inmigrants	inmigrant*,inmigration,adult education
+minority	Black People	black people,Black Americans,Black American Historical,black community,racism
+minority	Islamic People	Islam,islamophobia
+minority	Women (women in science)	role models,STEM,portraits of women,artwork of women,women in science
+minority	Women (pregnancy)	pregnancy,pregnant
+minority	Women (equality)	domestic violence,early drop out,human trafficking,sexism,single mother,gender bias
+nimby	Trash	trash,trash barrels,trash cans,trash bags,trash disposal,trash collection,trash bins,recycling,recycl*,litter,garbage
+nimby	Animals	animals,animal*,dog*,cat*,pet,pets,grass,waste,waste disposals,dog park,regulations,dog owners,dog walkers,dog waste,clean,pee,peeing,urine
+nimby	Restrooms	public restrooms,restroom*,accesible restrooms,bathrooms,defecating,urinating,public facilities
+nimby	Pollution	trees,emissions,air,pollution,pollution levels,carbon emissions,fuels,public transport,gardening,diesel
+nimby	Parking for residents	parking,parking spaces,parking lots,parking garage,parking area,parking spots,parking meters,parking tickets,parking fines,parking regulations,parking permits,parking restrictions,parking enforcement,parking management,parking facilities,parking services,parking problems,parking issues,parking solutions,parking needs,parking availability
+nimby	Electrical issues	wires,black outs,blackouts,cable wires,Cambridge electric department
+nimby	Noise	noise,noise reduction,noise exposure
+nimby	Drugs	drugs,drugs,overdose*
+nimby	Alcohol alchohol,drinking in public,alcoh*
+nimby	Landfills	landfill,landfills
+nimby	Crematories	cremation,cremate,cementery,cremated,crematory,crematories
+nimby   Festival	Festival,festivals,concert,concerts
